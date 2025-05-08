@@ -55,7 +55,6 @@ This project showcases a simulated office network designed using **Cisco Packet 
 ## 📁 Files Included
 
 - `Office Network Simulation.pkt`: The main Cisco Packet Tracer simulation file.
-- `image1.png` and `image2.png`: Screenshots of the network topology from the simulation.
 
 ## 📝 Project Overview
 
